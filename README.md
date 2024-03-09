@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <h1 align="center">Hi 👋, I'm Dani John Cherian</h1>
 <h3 align="center">Aspiring Cybersecurity analyst, XR Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/7a/8c/4b/7a8c4b5b617fa11a1e9a61190f427546.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danijohn4&label=Profile%20views&color=0e75b6&style=flat" alt="danijohn4" /> </p>
 
