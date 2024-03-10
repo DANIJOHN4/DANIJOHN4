@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/a014a3287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a014a3287" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dani-john-cherian-a014a3287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dani-john-cherian-a014a3287" height="30" width="40" /></a>
 <a href="https://instagram.com/rai_zel.19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rai_zel.19" height="30" width="40" /></a>
 <a href="https://discord.gg/aekU9Uqr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aekU9Uqr" height="30" width="40" /></a>
 </p>
